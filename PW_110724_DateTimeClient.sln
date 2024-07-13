@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW_110724_DateTimeClient", "PW_110724_DateTimeClient\PW_110724_DateTimeClient.csproj", "{E25948BE-AA53-4534-8913-204F34D90CD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PW_110724_DateTimeClient", "PW_110724_DateTimeClient\PW_110724_DateTimeClient.csproj", "{E25948BE-AA53-4534-8913-204F34D90CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW_110724_AsyncDateTimeClient", "PW_110724_AsyncDateTimeClient\PW_110724_AsyncDateTimeClient.csproj", "{B26B63EB-38BA-4445-BEC5-C6EA7579ABCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E25948BE-AA53-4534-8913-204F34D90CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E25948BE-AA53-4534-8913-204F34D90CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E25948BE-AA53-4534-8913-204F34D90CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26B63EB-38BA-4445-BEC5-C6EA7579ABCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26B63EB-38BA-4445-BEC5-C6EA7579ABCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26B63EB-38BA-4445-BEC5-C6EA7579ABCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26B63EB-38BA-4445-BEC5-C6EA7579ABCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
